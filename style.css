@@ -12,7 +12,7 @@ body {
 
 
 header {
-    background: #333;
+    background: #74f213;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -36,13 +36,13 @@ nav ul li a {
 section {
     padding: 20px;
     margin: 20px;
-    background: #fff;
+    background: #74f213;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 footer {
-    background: #333;
+    background: #74f213;
     color: #fff;
     text-align: center;
     padding: 10px 0;
