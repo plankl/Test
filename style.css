@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 2.5;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url('https://github.com/plankl/Test/blob/main/abstract_background_image.jpeg');
+    background-image: url('https://github.com/plankl/Test/blob/4fbe8895a0ce06caeb2ddb8f238a815ff3d61b04/abstract_background_image.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@ body {
 
 
 header {
-    background: #08be42;
+    background: #333;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -29,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #08be42;
+    color: #333;
     text-decoration: none;
 }
 
